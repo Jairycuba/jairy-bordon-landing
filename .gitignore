@@ -1,0 +1,6 @@
+# Local/editor artifacts
+.vscode/
+.idea/
+*.log
+__pycache__/
+
