@@ -1,0 +1,3 @@
+Command: git diff HEAD^ HEAD --check (equivalent target commit: git diff 5d86c82eff3d6e06c152c6f2d8f88f4552faa438^ 5d86c82eff3d6e06c152c6f2d8f88f4552faa438 --check)
+Result: NOT RUN / failed because 5d86c82eff3d6e06c152c6f2d8f88f4552faa438 is the repository root commit and has no parent (exit code 128).
+No whitespace errors were asserted by this command because there is no parent revision to compare.

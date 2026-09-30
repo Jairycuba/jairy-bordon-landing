@@ -1,0 +1,6 @@
+
+Algorithm : SHA256
+Hash      : F9EB95936BFA4D4AF30F8990E1BB9FF5DBA5AF904D4A63101BD2E6FF59D3F9E0
+Path      : C:\Jairy\PerfilDesarrollador\06_assets\JB_logo_reference.jpeg
+
+

@@ -1,0 +1,51 @@
+.\README.md:1:# Jairy Bordon — Developer Brand Package
+.\README.md:7:This package is the working foundation for Jairy Bordon's professional developer brand. It includes the decisions and materials established so far, excluding the unsuccessful Canva designs and links.
+.\README.md:11:**Jairy Bordon** is the public name. It is written Jairy Bordon and pronounced Hairy Bordón.
+.\README.md:29:- Jairy Bordon: software development, applications, automation, integrations, digital systems and consulting.
+.\README.md:30:- LifeOptions Academy: financial education, trading and related products.
+.\README.md:31:- CubaMía Catering: an independent business, not part of Jairy Bordon.
+.\README.md:36:- Email: jairybusiness@gmail.com
+.\README.md:37:- Calls: +1 705-358-6587
+.\README.md:38:- Do not label the number as WhatsApp.
+.\README.md:52:Canva designs, Canva draft links, and any flyer or card that did not correctly use the approved logo are intentionally excluded.
+.\ITERATION_HANDOFF.md:12:- `README.md`: documenta posicionamiento, servicios, separación de LifeOptions Academy y CubaMía Catering, estado actual y siguiente fase.
+.\ITERATION_HANDOFF.md:35:- `Jairy Bordon`, `Hairy Bordón`, `JB`, correo y teléfono: correctos.
+.\ITERATION_HANDOFF.md:36:- `HB`: solo aparece en prohibiciones documentadas; no se usa como identidad.
+.\ITERATION_HANDOFF.md:37:- `Canva`: solo aparece como exclusión o prohibición; no hay diseños nuevos.
+.\ITERATION_HANDOFF.md:38:- `WhatsApp`: aparece en textos de contacto y como canal de mensajería, pero el teléfono no está etiquetado como WhatsApp.
+.\ITERATION_HANDOFF.md:39:- `LifeOptions Academy`: separada de Jairy Bordon; sus proyectos pueden mostrarse como software propio.
+.\ITERATION_HANDOFF.md:40:- `CubaMía Catering`: separación añadida y documentada como negocio independiente.
+.\ITERATION_HANDOFF.md:43:- Archivos Canva, SVG/PNG nuevos, ZIPs y diseños finales prematuros: no encontrados.
+.\ITERATION_HANDOFF.md:48:2. El README no mencionaba CubaMía Catering, el estado `IMPLEMENTATION_READY` ni la siguiente Fase 1: se corrigió.
+.\ITERATION_HANDOFF.md:55:- No se incorporaron credenciales, enlaces de Canva ni diseños finales.
+.\01_brand\BRAND_IDENTITY_CONTRACT.md:7:**Jairy Bordon**
+.\01_brand\BRAND_IDENTITY_CONTRACT.md:9:Written exactly this way. Pronunciation: **Hairy Bordón**. The monogram is **JB**, never HB.
+.\01_brand\BRAND_IDENTITY_CONTRACT.md:13:Jairy Bordon is an independent software developer and digital-systems consultant who turns complex ideas, workflows and business processes into useful software.
+.\01_brand\BRAND_IDENTITY_CONTRACT.md:15:CubaMía Catering is an independent business and must not be presented as part of Jairy Bordon. LifeOptions Academy remains separate as the financial-education and trading brand.
+.\01_brand\BRAND_IDENTITY_CONTRACT.md:30:Use `06_assets/JB_logo_reference.jpeg` as the visual reference. The approved form is the clean navy-and-turquoise JB monogram on a white background.
+.\01_brand\BRAND_IDENTITY_CONTRACT.md:38:- The letters HB.
+.\01_brand\BRAND_IDENTITY_CONTRACT.md:50:Any future card, flyer, landing page or social asset must be compared against the approved logo reference before approval. A design is not accepted merely because it has a “JB” label; it must use the correct complete monogram.
+.\02_profile\PROFILE_BILINGUAL.md:7:Jairy Bordon
+.\02_profile\PROFILE_BILINGUAL.md:19:Soy Jairy Bordon, desarrollador independiente de software. Me interesa convertir ideas y procesos complejos en herramientas digitales prácticas. He desarrollado proyectos propios que abarcan aplicaciones web, software para trading, automatización, integraciones MCP y sistemas con agentes.
+.\02_profile\PROFILE_BILINGUAL.md:27:Jairy Bordon
+.\02_profile\PROFILE_BILINGUAL.md:39:I’m Jairy Bordon, an independent software developer focused on turning complex ideas and workflows into practical digital tools. My personal projects include web applications, trading software, automation, MCP integrations, and agent-based systems.
+.\04_portfolio\PORTFOLIO_FRAMEWORK.md:15:LifeOptions-related tools, trading intelligence, options workflows and MoomooBeast. Present these as software projects that demonstrate technical depth, not as the central definition of the Jairy Bordon brand.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:7:- Nombre escrito: **Jairy Bordon**.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:8:- Pronunciación: **Hairy Bordón**.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:9:- Monograma: **JB**. Nunca `HB`.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:10:- Correo: `jairybusiness@gmail.com`.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:11:- Teléfono para llamadas: `+1 705-358-6587`. No etiquetarlo como WhatsApp.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:15:Jairy Bordon es una marca profesional independiente de desarrollo de software, aplicaciones, automatización, integraciones, sistemas digitales y consultoría. Puede mostrar proyectos propios de trading como software, demos o productos; no debe presentarse como una marca exclusivamente financiera.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:19:- **Jairy Bordon:** desarrollo de software, aplicaciones, automatización, integraciones, sistemas digitales y consultoría.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:20:- **LifeOptions Academy:** educación financiera, trading y productos relacionados con trading.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:21:- **CubaMía Catering:** negocio independiente; no debe presentarse como parte de Jairy Bordon.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:25:La referencia única es `06_assets/JB_logo_reference.jpeg`. Debe conservar el monograma JB completo, azul marino y turquesa, sobre fondo blanco, con sus proporciones originales y su forma completa reconocible.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:27:No se permite rediseñarlo, redibujarlo, recortarlo, estirarlo, sustituirlo por letras separadas, usar una B blanca dentro de un cuadro oscuro ni usar `HB`. En esta fase no se crean versiones nuevas del logo ni diseños en Canva.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:31:Esta fase es documental y de organización. No incluye flyer, tarjeta, landing page, campaña publicitaria, automatización de WhatsApp, sistema de contacto, logo vectorial definitivo ni diseños Canva.
+.\01_brand\PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md:35:Los documentos del paquete deben ser coherentes con este contrato. Las referencias a `HB`, Canva o WhatsApp solo pueden aparecer para documentar una exclusión, una prohibición o una validación; no como identidad, diseño aprobado o canal etiquetado del teléfono.
+.\01_brand\PHASE_1_VISUAL_SYSTEM_PROPOSAL.md:17:El logo debe mantenerse fiel a la referencia aprobada: monograma JB completo, proporciones originales, azul marino y turquesa, y forma reconocible. La Fase 1 no debe reinterpretar, simplificar arbitrariamente, redibujar ni sustituir la referencia.
+.\03_marketing\MARKETING_CONTENT_BILINGUAL.md:3:## WhatsApp / first contact — Spanish
+.\03_marketing\MARKETING_CONTENT_BILINGUAL.md:5:Hola, [nombre]. Soy Jairy Bordon. [Nombre de la persona que te refirió] me comentó que quizá estás buscando apoyo con un proyecto digital. Desarrollo software y aplicaciones, y también ayudo a aclarar ideas y procesos para convertirlos en soluciones prácticas. Si me cuentas brevemente qué necesitas, coordinamos una conversación para ver cuál podría ser el siguiente paso.
+.\03_marketing\MARKETING_CONTENT_BILINGUAL.md:7:## WhatsApp / first contact — English
+.\03_marketing\MARKETING_CONTENT_BILINGUAL.md:9:Hi, [name]. I’m Jairy Bordon. [Referrer’s name] mentioned that you may be looking for help with a digital project. I develop software and applications, and I also help clarify ideas and workflows so they can become practical solutions. If you tell me briefly what you need, we can arrange a conversation to discuss the next step.
+.\03_marketing\MARKETING_CONTENT_BILINGUAL.md:43:The future card and flyer must use the approved logo reference, contact details and profile text from this package. No Canva design is approved yet. Layout, logo placement and final export must be audited visually before publication.

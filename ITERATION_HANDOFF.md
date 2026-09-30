@@ -60,3 +60,14 @@ Los documentos existentes del paquete, el `.docx` editable y `06_assets/JB_logo_
 Crear y auditar, bajo un contrato específico, SVG, PNG transparente, versiones para fondos claro/oscuro, versión monocromática, favicon y pruebas de legibilidad en tamaños pequeños, manteniendo fidelidad estricta a la referencia aprobada.
 
 La auditoría independiente determinará el score y cualquier cierre posterior. Esta entrega no declara la Fase 0 cerrada ni aprobada.
+
+## Checkpoint canónico de evidencia
+
+- Nombre: `Jairy_Bordon_Phase_0_AUDIT_CHECKPOINT.zip`
+- Commit auditado solicitado: `5d86c82eff3d6e06c152c6f2d8f88f4552faa438`.
+- Commit de empaquetado: se registrará tras incorporar esta evidencia y actualizar este handoff.
+- Tamaño del ZIP: se registrará después de generarlo.
+- SHA-256 del ZIP: se registrará después de generarlo.
+- Estado: `AUDIT_PENDING`.
+
+El checkpoint incluye únicamente los documentos y carpetas del paquete, `AUDIT_EVIDENCE/` y `MANIFEST.json`. La Fase 1 sigue sin comenzar; no se crearon logos, flyers, tarjetas, landing pages ni diseños Canva.
