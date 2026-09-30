@@ -1,15 +1,4 @@
-66b5c33 docs: prepare phase 0 identity package for audit
- .gitignore                                         |   6 ++
- 01_brand/BRAND_IDENTITY_CONTRACT.md                |  50 +++++++++++++++++
- .../PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md   |  36 ++++++++++++
- 01_brand/PHASE_1_VISUAL_SYSTEM_PROPOSAL.md         |  22 ++++++++
- 02_profile/PROFILE_BILINGUAL.md                    |  41 ++++++++++++++
- .../Jairy_Bordon_Marketing_Kit_editable.docx       | Bin 0 -> 83231 bytes
- 03_marketing/MARKETING_CONTENT_BILINGUAL.md        |  56 +++++++++++++++++++
- 04_portfolio/PORTFOLIO_FRAMEWORK.md                |  32 +++++++++++
- 05_methodology/CODEX_PROMPT_TEMPLATE.md            |  43 ++++++++++++++
- .../PLANNING_IMPLEMENTATION_AUDIT_WORKFLOW.md      |  48 ++++++++++++++++
- 06_assets/JB_logo_reference.jpeg                   | Bin 0 -> 55779 bytes
- ITERATION_HANDOFF.md                               |  62 +++++++++++++++++++++
- README.md                                          |  56 +++++++++++++++++++
- 13 files changed, 452 insertions(+)
+1787c80 chore: add canonical phase 0 audit checkpoint
+ Jairy_Bordon_Phase_0_AUDIT_CHECKPOINT.zip | Bin 0 -> 144706 bytes
+ MANIFEST.json                             | 149 ++++++++++++++++++++++++++++++
+ 2 files changed, 149 insertions(+)
