@@ -1,149 +1,110 @@
-[
-  {
-    "path": ".gitignore",
-    "size": 62,
-    "sha256": "9E805725B719DC178D544317ACA5CBF1F4FCC81C0BC1BF6AD970028D3A05FF57",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.6914903Z"
-  },
-  {
-    "path": "ITERATION_HANDOFF.md",
-    "size": 4103,
-    "sha256": "75A7073764B2FF5D73C1850DBAF60750337BF6733F4A89B623F307C6D4D36D90",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.6975197Z"
-  },
-  {
-    "path": "README.md",
-    "size": 2435,
-    "sha256": "CDF5B586A2F3BA6C3121C59E4DC187357EDF861D8CBA401BF58C7DE64F968EC0",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.6979693Z"
-  },
-  {
-    "path": "01_brand/BRAND_IDENTITY_CONTRACT.md",
-    "size": 1819,
-    "sha256": "684351D54540988225231069A54E5AFFF856858B229710EDADCF08018AF34E8A",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.6984866Z"
-  },
-  {
-    "path": "01_brand/PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md",
-    "size": 2022,
-    "sha256": "F45C76AAE5E1910036FD960D8AAACB297753D66100326178E075E85EEE6849BB",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.6988756Z"
-  },
-  {
-    "path": "01_brand/PHASE_1_VISUAL_SYSTEM_PROPOSAL.md",
-    "size": 875,
-    "sha256": "291FA8B43FFE3F444D0A330D9A8657CAFCD06C08076130DC0A7834423AE05317",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.6992459Z"
-  },
-  {
-    "path": "02_profile/PROFILE_BILINGUAL.md",
-    "size": 1880,
-    "sha256": "84ED3EB9D3E1B3AD30D0EF0932ED6FF9DD61DF3A3B8B366C01AD42185915BE60",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.6996214Z"
-  },
-  {
-    "path": "03_marketing/Jairy_Bordon_Marketing_Kit_editable.docx",
-    "size": 83231,
-    "sha256": "513DD832161DD8B7ADA906ADE77BBD257152289C98FDB64FABD96F85C0E4905C",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7001019Z"
-  },
-  {
-    "path": "03_marketing/MARKETING_CONTENT_BILINGUAL.md",
-    "size": 2894,
-    "sha256": "6AD9B47B127DD529C896A28F304ADB8056059976C9F837991D47CE6130351B4A",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7004942Z"
-  },
-  {
-    "path": "04_portfolio/PORTFOLIO_FRAMEWORK.md",
-    "size": 1054,
-    "sha256": "6BC57E9E14D5DB9A7E29AD88C4D1C3DD3FC633CB242CF7B38F432FEDBDC04BB1",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7008800Z"
-  },
-  {
-    "path": "05_methodology/CODEX_PROMPT_TEMPLATE.md",
-    "size": 839,
-    "sha256": "81830E95CDEEBE084844FB09DFF28B6C5005BDD5A0AA1B74307AFE04BCEF000F",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7012840Z"
-  },
-  {
-    "path": "05_methodology/PLANNING_IMPLEMENTATION_AUDIT_WORKFLOW.md",
-    "size": 1946,
-    "sha256": "0799C45038F3A8110E97093404671E79079F9794B0B6D1249EC75BDE7317D1D6",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7018832Z"
-  },
-  {
-    "path": "06_assets/JB_logo_reference.jpeg",
-    "size": 55779,
-    "sha256": "F9EB95936BFA4D4AF30F8990E1BB9FF5DBA5AF904D4A63101BD2E6FF59D3F9E0",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7023622Z"
-  },
-  {
-    "path": "AUDIT_EVIDENCE/contractual-scan.txt",
-    "size": 19161,
-    "sha256": "FFD3AF998719E630F96FD36EFBCA5475468E2A6FD9006A5E8B47CA7C42AA3A78",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7028120Z"
-  },
-  {
-    "path": "AUDIT_EVIDENCE/file-inventory.txt",
-    "size": 746,
-    "sha256": "51E6C08F23F509294545CD52D047F58FC1BE6F7A18CDA3F1D26AEF10A6349720",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7031764Z"
-  },
-  {
-    "path": "AUDIT_EVIDENCE/git-diff-check.txt",
-    "size": 495,
-    "sha256": "8AD0BE93505A33B4918BB1284FE008B468845059EF022D41E5D7088B95971558",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7035453Z"
-  },
-  {
-    "path": "AUDIT_EVIDENCE/git-log.txt",
-    "size": 243,
-    "sha256": "8190422D7475DC9654D68254F6E557432F42BBFE3B232FA4E03B796E8038BC32",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7040343Z"
-  },
-  {
-    "path": "AUDIT_EVIDENCE/git-show.txt",
-    "size": 241,
-    "sha256": "B8A99A5DFFA3B70CBEDEE1FC1B5A433175B1EDC2BC83D61E963793BBB637CEAD",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7043993Z"
-  },
-  {
-    "path": "AUDIT_EVIDENCE/git-status.txt",
-    "size": 70,
-    "sha256": "AE2C78B898B46545F212EB04DDC0B4E01921B456396BD65231F0CC7DE80E1867",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7047493Z"
-  },
-  {
-    "path": "AUDIT_EVIDENCE/logo-sha256.txt",
-    "size": 179,
-    "sha256": "B0D859D555FE8FE7A32390668DB38075BA94634914403DC65D93FBFE3705B291",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7051224Z"
-  },
-  {
-    "path": "AUDIT_EVIDENCE/secret-scan.txt",
-    "size": 317,
-    "sha256": "5D37A890CB706FB25A8E52C5EC0B7DEE25D6FA9647DF1472ED7E557F9F041AB9",
-    "commit": "ada34d0982ded3f22c21633cfb83dd073816f83d",
-    "checkpoint_created": "2026-09-30T12:51:50.7054912Z"
-  }
-]
+{
+  "note": "Git commit identity is reported externally in the final audit handoff because a commit cannot contain its own hash.",
+  "files": [
+    {
+      "path": "README.md",
+      "size": 2435,
+      "sha256": "CDF5B586A2F3BA6C3121C59E4DC187357EDF861D8CBA401BF58C7DE64F968EC0"
+    },
+    {
+      "path": "ITERATION_HANDOFF.md",
+      "size": 4057,
+      "sha256": "A44C54AFE8ED861BA57676A2DAEFB9737A640AB32D34D0D9D28D331A1556CE2D"
+    },
+    {
+      "path": ".gitignore",
+      "size": 62,
+      "sha256": "9E805725B719DC178D544317ACA5CBF1F4FCC81C0BC1BF6AD970028D3A05FF57"
+    },
+    {
+      "path": "01_brand/BRAND_IDENTITY_CONTRACT.md",
+      "size": 1819,
+      "sha256": "684351D54540988225231069A54E5AFFF856858B229710EDADCF08018AF34E8A"
+    },
+    {
+      "path": "01_brand/PHASE_0_IDENTITY_AND_POSITIONING_CONTRACT.md",
+      "size": 2022,
+      "sha256": "F45C76AAE5E1910036FD960D8AAACB297753D66100326178E075E85EEE6849BB"
+    },
+    {
+      "path": "01_brand/PHASE_1_VISUAL_SYSTEM_PROPOSAL.md",
+      "size": 875,
+      "sha256": "291FA8B43FFE3F444D0A330D9A8657CAFCD06C08076130DC0A7834423AE05317"
+    },
+    {
+      "path": "02_profile/PROFILE_BILINGUAL.md",
+      "size": 1880,
+      "sha256": "84ED3EB9D3E1B3AD30D0EF0932ED6FF9DD61DF3A3B8B366C01AD42185915BE60"
+    },
+    {
+      "path": "03_marketing/Jairy_Bordon_Marketing_Kit_editable.docx",
+      "size": 83231,
+      "sha256": "513DD832161DD8B7ADA906ADE77BBD257152289C98FDB64FABD96F85C0E4905C"
+    },
+    {
+      "path": "03_marketing/MARKETING_CONTENT_BILINGUAL.md",
+      "size": 2894,
+      "sha256": "6AD9B47B127DD529C896A28F304ADB8056059976C9F837991D47CE6130351B4A"
+    },
+    {
+      "path": "04_portfolio/PORTFOLIO_FRAMEWORK.md",
+      "size": 1054,
+      "sha256": "6BC57E9E14D5DB9A7E29AD88C4D1C3DD3FC633CB242CF7B38F432FEDBDC04BB1"
+    },
+    {
+      "path": "05_methodology/CODEX_PROMPT_TEMPLATE.md",
+      "size": 839,
+      "sha256": "81830E95CDEEBE084844FB09DFF28B6C5005BDD5A0AA1B74307AFE04BCEF000F"
+    },
+    {
+      "path": "05_methodology/PLANNING_IMPLEMENTATION_AUDIT_WORKFLOW.md",
+      "size": 1946,
+      "sha256": "0799C45038F3A8110E97093404671E79079F9794B0B6D1249EC75BDE7317D1D6"
+    },
+    {
+      "path": "06_assets/JB_logo_reference.jpeg",
+      "size": 55779,
+      "sha256": "F9EB95936BFA4D4AF30F8990E1BB9FF5DBA5AF904D4A63101BD2E6FF59D3F9E0"
+    },
+    {
+      "path": "AUDIT_EVIDENCE/contractual-scan.txt",
+      "size": 32038,
+      "sha256": "2778AB9F1B393697EA11416A595E207A449C41775A54BB5943EF0EC9BD04D3E7"
+    },
+    {
+      "path": "AUDIT_EVIDENCE/file-inventory.txt",
+      "size": 743,
+      "sha256": "9666429F415E147DE20BDAB9B529D66D6DE33BB386045FF4E33C03BABCF5D7AB"
+    },
+    {
+      "path": "AUDIT_EVIDENCE/git-diff-check.txt",
+      "size": 973,
+      "sha256": "84E6EB0938CAA1FBCD6B32172A0A657454DB52059A45D82FE7461E21C1F69648"
+    },
+    {
+      "path": "AUDIT_EVIDENCE/git-log.txt",
+      "size": 290,
+      "sha256": "BAF91942D95CEC66A2DE6AB7500EA09644B0735A721B6698258939DCB253CF2B"
+    },
+    {
+      "path": "AUDIT_EVIDENCE/git-show.txt",
+      "size": 260,
+      "sha256": "EAB68B02BD9BEF63D64E34AC012663BB79634539CA8E87A40A0F1757AE346500"
+    },
+    {
+      "path": "AUDIT_EVIDENCE/git-status.txt",
+      "size": 11,
+      "sha256": "E78649C1946F419981AC2B777E4656698C0992CF24ECB5E27AD102FEC89C56D6"
+    },
+    {
+      "path": "AUDIT_EVIDENCE/logo-sha256.txt",
+      "size": 179,
+      "sha256": "B0D859D555FE8FE7A32390668DB38075BA94634914403DC65D93FBFE3705B291"
+    },
+    {
+      "path": "AUDIT_EVIDENCE/secret-scan.txt",
+      "size": 317,
+      "sha256": "4193FF3A5C5D10D9441C94FDDE7A58FEDD1192B4E5B9123CFA4DA034D3775713"
+    }
+  ]
+}

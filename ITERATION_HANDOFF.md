@@ -64,11 +64,10 @@ La auditoría independiente determinará el score y cualquier cierre posterior. 
 ## Checkpoint canónico de evidencia
 
 - Nombre: `Jairy_Bordon_Phase_0_AUDIT_CHECKPOINT.zip`
-- Commit canónico verificado: `1787c8056d2428a6f24e92081d48ef17d36e4d67`.
-- Rama canónica: `master`.
-- Commit de empaquetado de evidencia: `1787c8056d2428a6f24e92081d48ef17d36e4d67`.
-- Tamaño del ZIP final: se actualizará después de la regeneración final.
-- SHA-256 del ZIP final: se actualizará después de la regeneración final.
+- Commit final reportado externamente: se obtiene con `git rev-parse HEAD` después del commit final.
+- Rama final: `master`.
+- El tamaño y SHA-256 reales del ZIP se reportan externamente en la entrega final.
+- Esos valores no se incluyen dentro del ZIP para evitar autorreferencia circular.
 - Estado: `AUDIT_PENDING`.
 
 El checkpoint incluye únicamente los documentos y carpetas del paquete, `AUDIT_EVIDENCE/` y `MANIFEST.json`. La Fase 1 sigue sin comenzar; no se crearon logos, flyers, tarjetas, landing pages ni diseños Canva.

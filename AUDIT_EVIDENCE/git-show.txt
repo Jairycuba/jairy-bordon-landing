@@ -1,4 +1,4 @@
-1787c80 chore: add canonical phase 0 audit checkpoint
- Jairy_Bordon_Phase_0_AUDIT_CHECKPOINT.zip | Bin 0 -> 144706 bytes
- MANIFEST.json                             | 149 ++++++++++++++++++++++++++++++
- 2 files changed, 149 insertions(+)
+29bd7cf chore: refresh canonical phase 0 checkpoint
+ Jairy_Bordon_Phase_0_AUDIT_CHECKPOINT.zip | Bin 144706 -> 145235 bytes
+ MANIFEST.json                             | 116 +++++++++++++++---------------
+ 2 files changed, 58 insertions(+), 58 deletions(-)

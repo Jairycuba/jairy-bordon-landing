@@ -1,4 +1,5 @@
-1787c80 (HEAD -> master) chore: add canonical phase 0 audit checkpoint
+29bd7cf (HEAD -> master) chore: refresh canonical phase 0 checkpoint
+ada34d0 docs: reconcile phase 0 audit traceability
+1787c80 chore: add canonical phase 0 audit checkpoint
 60fb40b docs: record canonical phase 0 checkpoint metadata
 9b4d4d6 docs: add phase 0 audit checkpoint evidence
-66b5c33 docs: prepare phase 0 identity package for audit
