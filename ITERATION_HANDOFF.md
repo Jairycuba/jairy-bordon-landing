@@ -65,9 +65,9 @@ La auditoría independiente determinará el score y cualquier cierre posterior. 
 
 - Nombre: `Jairy_Bordon_Phase_0_AUDIT_CHECKPOINT.zip`
 - Commit auditado solicitado: `5d86c82eff3d6e06c152c6f2d8f88f4552faa438`.
-- Commit de empaquetado: se registrará tras incorporar esta evidencia y actualizar este handoff.
-- Tamaño del ZIP: se registrará después de generarlo.
-- SHA-256 del ZIP: se registrará después de generarlo.
+- Commit de empaquetado de evidencia: `9b4d4d6c81df63aba268da74711a0212242d1aea`.
+- Tamaño del ZIP calculado: `144635` bytes.
+- SHA-256 del ZIP calculado: `2C1D0F050FB9CE08C0CD7A78B1CF8A47998657CF67A14380DCC252A56327534B`.
 - Estado: `AUDIT_PENDING`.
 
 El checkpoint incluye únicamente los documentos y carpetas del paquete, `AUDIT_EVIDENCE/` y `MANIFEST.json`. La Fase 1 sigue sin comenzar; no se crearon logos, flyers, tarjetas, landing pages ni diseños Canva.
