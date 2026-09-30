@@ -13,10 +13,6 @@ ITERATION_HANDOFF.md
 06_assets/JB_logo_reference.jpeg
 AUDIT_EVIDENCE/contractual-scan.txt
 AUDIT_EVIDENCE/file-inventory.txt
-AUDIT_EVIDENCE/git-diff-check.txt
-AUDIT_EVIDENCE/git-log.txt
-AUDIT_EVIDENCE/git-show.txt
-AUDIT_EVIDENCE/git-status.txt
 AUDIT_EVIDENCE/logo-sha256.txt
 AUDIT_EVIDENCE/secret-scan.txt
 MANIFEST.json

@@ -1,3 +1,0 @@
-git diff --check: PASS
-git show --check --format=fuller HEAD: PASS
-git diff-tree --check --root -r HEAD: PASS

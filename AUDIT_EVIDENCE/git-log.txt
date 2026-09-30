@@ -1,5 +1,0 @@
-6467b4b (HEAD -> master) docs: finalize phase 0 reproducible audit state
-29bd7cf chore: refresh canonical phase 0 checkpoint
-ada34d0 docs: reconcile phase 0 audit traceability
-1787c80 chore: add canonical phase 0 audit checkpoint
-60fb40b docs: record canonical phase 0 checkpoint metadata
