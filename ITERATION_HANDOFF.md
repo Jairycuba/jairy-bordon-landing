@@ -2,8 +2,7 @@
 
 - Workspace: `C:\Jairy\PerfilDesarrollador`
 - Rama: `master`
-- Commit base: `NONE — repositorio inicializado durante esta iteración`
-- Commit nuevo: `5d86c82eff3d6e06c152c6f2d8f88f4552faa438`
+- Commit final: reportado externamente en la entrega.
 - Remoto GitHub: no configurado; queda pendiente conectarlo si el propietario lo solicita.
 - Estado final: `IMPLEMENTATION_READY`
 
