@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">JB favicon</title>
+  <desc id="desc">Simplified JB monogram with the approved turquoise ribbon, optimized for small sizes.</desc>
+  <path fill="#0F234A" d="M4 5h18v29c0 8-6 14-14 14H4V38h5c2 0 3-2 3-4V14H4V5Z"/>
+  <path fill="#0F234A" d="M27 5h18c8 0 14 5 14 12 0 4-2 7-5 9 4 2 6 6 6 11 0 8-6 14-15 14H27V5Zm10 8v10h7c3 0 5-2 5-5s-2-5-5-5h-7Zm0 18v10h8c4 0 6-2 6-5s-2-5-6-5h-8Z"/>
+  <path fill="#17C3C8" d="M2 35h9c0 5 3 8 8 8 3 0 5-1 8-4l10-10c4-4 8-6 14-6 6 0 10 3 10 8h-9c0-1-1-2-3-2-3 0-4 1-7 4L34 47c-5 5-9 7-15 7C9 54 2 47 2 35Z"/>
+</svg>

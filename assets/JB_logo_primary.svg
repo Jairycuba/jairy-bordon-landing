@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 686" role="img" aria-labelledby="title desc">
+  <title id="title">JB monogram</title>
+  <desc id="desc">Native vector tracing of the approved JB monogram reference.</desc>
+  <path fill="#0F234A" d="M181 0h183v310l-81 81V81h-102V0Zm102 376v190c0 57-47 104-104 104-62 0-112-50-112-112v-72h112v52c0 13 10 23 23 23s23-10 23-23V457l58-81Z"/>
+  <path fill="#0F234A" d="M398 0h194c148 0 268 111 268 247 0 69-30 131-80 176 54 43 80 102 80 152 0 62-48 111-108 111H398V438h178c46 0 83 38 83 85s-37 85-83 85H489v78h183c20 0 36-16 36-36 0-49-35-83-111-83H398V0Zm91 82v326h84c85 0 160-68 160-161S658 82 573 82h-84Z"/>
+  <path fill="#17C3C8" d="M0 481h111c0 57 47 104 105 104 36 0 63-18 91-45l117-117c47-47 91-70 154-70 84 0 151 44 151 112h-91c0-20-24-31-60-31-34 0-57 16-91 50L470 601c-61 60-112 85-179 85C130 686 0 595 0 481Z"/>
+</svg>
